@@ -1,0 +1,11 @@
+body {
+	font-family: sans-serif; 
+	color: white;
+	background-color: black;
+}
+table { 
+	border: 2px solid yellow;
+}
+input { 
+	padding: 3px; 
+}
